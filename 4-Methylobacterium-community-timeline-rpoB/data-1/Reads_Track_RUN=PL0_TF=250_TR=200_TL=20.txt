@@ -1,7 +1,0 @@
-"input" "filtered" "denoisedF" "denoisedR" "merged"
-"T04-rpoB-1-step" 57486 15036 14739 14672 14397
-"T07-rpoB-1-step" 25763 7253 7229 7220 7207
-"T09-rpoB-1-step" 35045 9105 8940 8783 8658
-"T10-rpoB-1-step" 35963 8010 7885 7826 7763
-"T11-rpoB-1-step" 58172 14115 13892 13842 13697
-"T12-rpoB-1-step" 28816 6595 6507 6469 6437
