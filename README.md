@@ -5,9 +5,9 @@ https://github.com/JBLED/methylo-phyllo-diversity.git
 
 # IF USING ANY INFORMATION RELATED TO THIS PROJECT, PLEASE READ AND CITE:
 
-Leducq et al. (2021) Fine-scale adaptations to environmental variation and growth strategies drive phyllosphere Methylobacterium diversity.
+Leducq et al. (2022) Fine-scale adaptations to environmental variation and growth strategies drive phyllosphere Methylobacterium diversity. Published in mBio
 
-PRE-PRINT VERSION: https://www.biorxiv.org/content/10.1101/2021.06.04.447128v5 and updated versions
+https://doi.org/10.1128/mbio.03175-21
 
 # DESCRIPTION
 
